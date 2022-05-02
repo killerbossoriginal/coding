@@ -1,7 +1,8 @@
 # HTML
 
 `html` serve sempre
-`body` serve sempre dentro html
+`head` serve sempre dentro html, serve per mettere le informazioni della pagina come il titolo.
+`body` serve sempre dentro html, serve per costruire la pagina e le cose che vedi dentro.
 da `h1` a `h6` crea un intestazione
 `p` crea un paragrafo
 `br` manda a capo (tag vuoto)
